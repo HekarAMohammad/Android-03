@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android_03</string>
+    <string name="wilcome">Willcome to mediaplayer App</string>
+    <string name="todo">todo</string>
+    <string name="play_all">Play All</string>
+    <string name="_2021_2022">2021-2022</string>
+    <string name="web">Web View</string>
+    <string name="song">Play Song</string>
+    <string name="vid">Play Video</string>
+    <string name="bilind_ibrahim">Bilind Ibrahim</string>
+    <string name="were_peri">Were Peri</string>
+
+</resources>
